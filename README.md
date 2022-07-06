@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/xuzhiwen1255/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuzhiwen1255&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xzw yesyesyes" /></a> | <a href="https://github.com/xuzhiwen1255/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuzhiwen1255&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuzhiwen1255&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuzhiwen1255&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuzhiwen1255&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
