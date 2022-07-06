@@ -12,6 +12,9 @@ I am Xu Zhiwen, a big data development engineer. I am currently working in Deepn
 
 **The article I wrote** : [To view all of my articles please click on me](https://www.jianshu.com/u/103cd77bc4ac)
 
+**My email address** :    `xzw961255@165.com`
+
+
 
 
 ### My hobby
