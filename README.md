@@ -2,7 +2,7 @@
 
 ### Hi : 
 
-I am Xu Zhiwen, a big data development engineer. I am currently working in Deepnova, mainly responsible for the development of Iceberg, a data lake. You can get to know me quickly through the following introduction
+I am Xu Zhiwen, a big data development engineer. I am currently working in @deepnova, mainly responsible for the development of Iceberg, a data lake. You can get to know me quickly through the following introduction
 
 ### About me
 
